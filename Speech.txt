@@ -1,0 +1,124 @@
+﻿Mejora continua
+
+Que es la mejora continua?
+
+El proceso enfocado en mejorar los productos, servicios y procesos.
+Postula que es una actitud general que debe ser la base para asegurar la estabilización del proceso y la posibilidad de mejora.
+Cuando hay crecimiento y desarrollo en una organización o comunidad, es necesaria la identificación de todos los procesos y el análisis
+mensurable de cada paso llevado a cabo. Algunas de las herramientas utilizadas incluyen las acciones correctivas, preventivas y el análisis
+de la satisfacción en los miembros o clientes. Se trata de la forma más efectiva de mejora de la calidad y la eficiencia en las
+organizaciones. En el caso de empresas, los sistemas de gestión de calidad, normas ISO y sistemas de evaluación ambiental,
+se utilizan para conseguir calidad total.
+
+Técnicas
+
+
+    Mantenimiento productivo total
+    
+    
+    SMED  (Single-Minute Exchange of Die)
+    
+    Este concepto introduce la idea de que en general cualquier cambio de máquina o
+    inicialización de proceso debería durar no más de 10 minutos
+    
+
+    
+    Kanban
+    
+    es un sistema de información que controla de modo armónico la fabricación de los productos necesarios en la cantidad y
+    tiempo necesarios en cada uno de los procesos que tienen lugar tanto en el interior de la fábrica, como entre distintas empresas.
+
+    También se denomina “sistema de tarjetas”, pues en su implementación más sencilla utiliza tarjetas que se pegan en los contenedores
+    de materiales y que se despegan cuando estos contenedores son utilizados, para asegurar la reposición de dichos materiales.
+    Las tarjetas actúan de testigo del proceso de producción. Otras implementaciones más sofisticadas utilizan la misma filosofía, s
+    ustituyendo las tarjetas por otros métodos de visualización del flujo.
+    
+    Jidoka
+    
+    “automatización con un toque humano”. La idea es que los trabajadores no tengan que supervisar constantemente el funcionamiento de
+    las máquinas, sino dotar de mecanismos que hagan este control automático y que el trabajador sólo tenga que intervenir cuando algo
+    va mal, disponiendo de medios para solucionar los problemas en el momento que se producen.
+    
+    Si un proceso produce no–calidad, y lo que se asegura el seguimiento de dicho proceso, entonces lo que se asegura es la no–calidad.
+    
+    metodologías como Test Driven Development, facilitando la automatización de las pruebas, que quedan integradas dentro del propio
+    proceso de diseño. Al quedar automatizadas, no es necesario que ningún grupo de personas quede destinado exclusivamente a labores de
+    inspección, sino que pueden dedicarse a tareas más productivas.
+    
+    
+    Just in time
+    
+    La filosofía JIT se traduce en un sistema que tiende a producir justo lo que se requiere, cuando se necesita, con excelente calidad y
+    sin desperdiciar recursos del sistema.
+
+    El JIT es una metodología de organización de la producción que tiene implicaciones en todo el sistema productivo. Además de
+    proporcionar métodos para la planificación y el control de la producción, incide en muchos otros aspectos de los sistemas
+    de fabricación, como son, entre otros, el diseño de producto, los recursos humanos, el sistema de mantenimiento o la calidad.
+    «Producir los elementos que se necesitan, en las cantidades que se necesitan, en el momento en que se necesitan».
+    
+    Poka-yoke
+    
+    Un poka-yoke (en japonés ポカヨケ, literalmente a prueba de errores) es una técnica de calidad que se aplica con el fin de evitar
+    errores en la operación de un sistema. Por ejemplo, el conector de un USB es un poka-yoke puesto que no permite conectarlo al revés.
+    
+    Imposibilitar de algún modo el error humano; por ejemplo, los cables para la recarga de baterías de teléfonos móviles y dispositivos
+    de corriente continua sólo pueden conectarse con la polaridad correcta, siendo imposible invertirla, ya que los pines de conexión
+    son de distinto tamaño o forma.
+    
+    
+    FASES Mejora continua
+    
+    Plan (planificar)
+
+Organización lógica del trabajo
+
+    Identificación del problema y planificación.
+    Observaciones y análisis.
+    Establecimiento de objetivos a alcanzar.
+    Establecimiento de indicadores de control.
+
+ 
+Do (hacer)
+
+Correcta realización de las tareas planificadas
+
+    Preparación exhaustiva y sistemática de lo previsto.
+    Aplicación controlada del plan.
+    Verificación de la aplicación.
+
+ 
+Check (comprobar)
+
+Comprobación de los logros obtenidos
+
+    Verificación de los resultados de las acciones realizadas.
+    Comparación con los objetivos.
+
+ 
+Adjust (ajustar)
+
+Posibilidad de aprovechar y extender aprendizajes y experiencias adquiridas en otros casos
+
+    Analizar los datos obtenidos.
+    Proponer alternativa de mejora.
+    Estandarización y consolidación.
+    Preparación de la siguiente etapa del plan.
+
+    
+    
+   Identificación de problemas 
+    
+    5 por qué?
+    
+    Los 5 Por que’s es una técnica sistemática de preguntas utilizada durante la fase de análisis de problemas para buscar sus posibles
+    causas principales.
+
+    La técnica requiere que se pregunte “por qué” al menos cinco veces, o se trabaje a través de cinco niveles de detalle. Una vez que
+    sea difícil responder al “por qué?”, la causa más probable habrá sido identificada.
+
+	http://www.adb.org/sites/default/files/publication/27641/five-whys-technique.pdf
+
+
+
+    
+    
